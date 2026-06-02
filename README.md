@@ -19,7 +19,6 @@ Perform investigation and validation activities using command-line tools and SQL
 - Cygwin
 - PostgreSQL
 - SQL
-- Git/GitHub
 
 ---
 
@@ -70,8 +69,6 @@ Perform investigation and validation activities using command-line tools and SQL
 
 #### ✔️ Log Analysis Reports
 - [**Command-Line**](https://docs.google.com/document/d/1V6jkRFYL9CC1MYAzfOqpn8GOuyCFdlU3ghKlU1wSS_Y/edit?usp=sharing)
-
-#### ✔️ Validation Reports
 
 ---
 
